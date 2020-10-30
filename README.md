@@ -3,4 +3,7 @@
 Complete git -> CI via Jenkins -> CD via jenkins -> docker 
 
 CI test
-1
+
+
+
+ci and cd testing
